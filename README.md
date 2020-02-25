@@ -1,4 +1,4 @@
-# spellchecker
+# spellcheckerAPI
 
 Simple Spellchecker RESTful API using Flask and Postman
 
